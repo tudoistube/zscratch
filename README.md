@@ -1,14 +1,11 @@
-# zscratch  
-스크래치를 이용한 COS 시험과 알고리즘 실습예제  
+# zeasyScratch  
+방과후 수업을 위한 스크래치를 이용한 실습예제  
 ===================================================================
 
 ## Branch Description  
 
-### zybmCos ['스크래치·알고리즘 이해와 창의개발 프로그래밍 코딩 1급 시험대비서' 책 보고 실습한 소스](http://image.yes24.com/momo/TopCate972/MidCate002/97112294.jpg "한국공학기술연구원 저" )  
-
- ![스크래치·알고리즘 이해와 창의개발 프로그래밍 코딩 1급 시험대비서](http://image.yes24.com/momo/TopCate972/MidCate002/97112294.jpg)  
-
-    
+### zeasyScratch  
+   
 
     
 책 보면서 실습한 소스임.  
