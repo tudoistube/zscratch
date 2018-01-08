@@ -1,10 +1,10 @@
 # zeasyScratch  
-방과후 수업을 위한 스크래치를 이용한 실습예제  
+부산 동의대 2017년 SW교육 체험캠프 수업 교재 및 실습예제  
 ===================================================================
 
 ## Branch Description  
 
-### zeasyScratch [방과후 수업을 위한 스크래치를 이용한 실습예제](https://127.0.0.1:8080/ "방과후 수업을 위한 스크래치를 이용한 실습예제" )  
+### zoneDayClass [부산 동의대 2017년 SW교육 체험캠프](https://docs.google.com/presentation/d/1jUYPM-wE0qx0lMQrAJa72BM6nJYsKJKsy-M7IyXvdBk/edit?usp=sharing "부산 동의대 2017년 SW교육 체험캠프" )  
 
 
     
